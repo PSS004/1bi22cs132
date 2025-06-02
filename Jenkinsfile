@@ -30,7 +30,7 @@ pipeline {
             steps {
                 
                 sh 'java -jar target/1bi22cs132-1.0-SNAPSHOT.jar'
-'
+
             }
         }
 
